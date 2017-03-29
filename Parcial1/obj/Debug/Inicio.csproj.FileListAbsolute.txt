@@ -1,0 +1,11 @@
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\bin\Debug\Inicio.exe.config
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\bin\Debug\Inicio.exe
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\bin\Debug\Inicio.pdb
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\obj\Debug\Inicio.csprojResolveAssemblyReference.cache
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\obj\Debug\Inicio.Form1.resources
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\obj\Debug\Inicio.csproj.GenerateResource.Cache
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\obj\Debug\Inicio.exe
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\obj\Debug\Inicio.pdb
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\obj\Debug\Inicio.frmAdmin.resources
+C:\Users\ildefonso\AppData\Local\Temporary Projects\Inicio\obj\Debug\Inicio.frmUser.resources

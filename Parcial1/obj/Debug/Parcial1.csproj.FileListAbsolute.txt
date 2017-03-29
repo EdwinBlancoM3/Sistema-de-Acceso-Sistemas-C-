@@ -1,0 +1,13 @@
+C:\Users\ildefonso\Documents\Visual Studio 2012\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\edwin\Desktop\Parcial1\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\edwin\Desktop\Parcial1\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\edwin\Desktop\Parcial1\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Inicio.Form1.resources
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Inicio.frmAdmin.resources
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Inicio.frmplacas.resources
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Inicio.frmUser.resources
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Inicio.Properties.Resources.resources
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\edwin\Desktop\Parcial1\Parcial1\obj\Debug\Parcial1.pdb
